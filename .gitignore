@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+venv.bak/
+
+# Environment variables
+.env
+
+# Jupyter Notebook metadata
+*.ipynb-meta
+
+# Ignore Excel output files
+*.xlsx
+
+# Ignore log files
+*.log
+
+# Ignore MacOS files
+.DS_Store
+
+# Ignore node_modules
+node_modules/
